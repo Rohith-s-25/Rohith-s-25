@@ -8,7 +8,7 @@ I like projects that answer a business question with numbers someone can act on,
 
 | Project | What it does | Tools |
 |---|---|---|
-| [**Card Fraud Early Warning**](https://github.com/Rohith-s-25/card-fraud-early-warning-) | Picks which transactions a fraud team with a fixed daily review budget should check. Built on 1.85M synthetic transactions, then re-tested on 590k real ones to show what held up. | Python, SQL (DuckDB), XGBoost, SHAP, pytest |
+| [**Card Fraud Early Warning**](https://github.com/Rohith-s-25/card-fraud-early-warning) | Picks which transactions a fraud team with a fixed daily review budget should check. Built on 1.85M synthetic transactions, then re-tested on 590k real ones to show what held up. | Python, SQL (DuckDB), XGBoost, SHAP, pytest |
 | [**Telecom Customer Churn Dashboard**](https://github.com/Rohith-s-25/telecom-churn-dashboard) | Finds who churns, when and why across 7,000 telecom customers, with a Power BI dashboard and a churn risk score for every customer. | Python, SQL, Power BI, scikit-learn |
 | [**Explainable AI for EIT Anisotropy Detection**](https://github.com/Rohith-s-25/eit-anisotropy-xai) | MSc thesis. A neural network that detects anisotropy from electrical impedance tomography data (92% accuracy on test data), with SHAP and saliency maps to check it looks at the right signals. | Python, PyTorch, SHAP, MATLAB |
 
